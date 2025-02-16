@@ -7,7 +7,7 @@ DNS-Scan is a tool to discover subdomains passively using various APIs and tools
 ![](images/image-2.png)
 
 -----------------------
-> PyPI project link https://pypi.org/project/dns-scan/
+> **PyPI project link:** https://pypi.org/project/dns-scan/
 -----------------------
 ## Installation
 
